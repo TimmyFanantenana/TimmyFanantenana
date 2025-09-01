@@ -33,21 +33,6 @@ I see programming languages as different ways to express the same human needs, m
   <!-- Spring -->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
 </p>
-
----
-
-### 📊 My Coding Rhythm
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TimmyFanantenana&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=5B8FB9&icon_color=5B8FB9&text_color=FFFFFF" alt="Timmy's GitHub Stats" />
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyFanantenana&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=5B8FB9&text_color=FFFFFF" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🌌 INFP Developer Mantra
