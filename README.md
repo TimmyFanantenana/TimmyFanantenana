@@ -33,16 +33,7 @@ Always seeking the poetry hidden in algorithms and the humanity behind interface
 </p>
 
 ---
----
-
-### 🌊 INFP Perspective
-Building with intention, coding with purpose, and always searching for the deeper meaning in the digital landscape.
-
----
-
 <div align="center">
-  
-  *"We're happy, free, confused, and lonely at the same time—it's miserable and magical."* 
   
   ### Thanks for stopping by!
   
