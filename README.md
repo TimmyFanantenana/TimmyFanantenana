@@ -4,7 +4,7 @@
 
 ---
 
-# Hiiiii, I'm Timmy 🎵
+# Hiiiii, I'm Timmy
 
 > *"No matter what happens in life, be good to people. Being good to people is a wonderful legacy to leave behind."* 
 > <div align="right"><em>- Taylor Swift</em></div>
