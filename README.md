@@ -1,6 +1,5 @@
-<!-- INFP Blue Shades Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TimmyFanantenana/TimmyFanantenana/main/blue-shades-banner.svg" alt="Blue Shades Banner" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=2000&pause=500&color=5B8FB9&center=true&vCenter=true&width=500&lines=Timmy's+Digital+Garden;Code+with+Poetry;INFP+Developer;Swiftie+Coder" alt="Typing SVG" />
 </div>
 
 ---
@@ -25,7 +24,7 @@ An INFP navigating the digital realm, I blend creativity with technology to buil
   <!-- Vue -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue" />
   <!-- Laravel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain.svg" width="50" height="50" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel" />
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
   <!-- Spring -->
