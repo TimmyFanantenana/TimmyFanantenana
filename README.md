@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=2000&pause=500&color=5B8FB9&center=true&vCenter=true&width=500&lines=Timmy's+Digital+Garden;Code+with+Poetry;INFP+Developer;Swiftie+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=2000&pause=500&color=5B8FB9&center=true&vCenter=true&width=500&lines=Timmy's+Digital+Garden;Code+with+Poetry;INFP;Swiftie+Coder" alt="Typing SVG" />
 </div>
 
 ---
