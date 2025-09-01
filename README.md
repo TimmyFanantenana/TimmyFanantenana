@@ -11,7 +11,7 @@
 
 ### 💭 About Me
 An INFP navigating the digital realm, blending creativity with technology to build meaningful experiences.
-# Always seeking the poetry hidden in algorithms and the humanity behind interfaces.
+#### Always seeking the poetry hidden in algorithms and the humanity behind interfaces.
 
 ---
 
