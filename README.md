@@ -10,7 +10,8 @@
 > <div align="right"><em>- Taylor Swift</em></div>
 
 ### 💭 About Me
-An INFP navigating the digital realm, I blend creativity with technology to build meaningful experiences. I believe in the power of code to tell stories and connect people, always seeking the poetry hidden in algorithms and the humanity behind interfaces.
+An INFP navigating the digital realm, blending creativity with technology to build meaningful experiences.
+Always seeking the poetry hidden in algorithms and the humanity behind interfaces.
 
 ---
 
